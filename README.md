@@ -27,6 +27,10 @@ Event handling in the JavaScript file connects the password generation function 
 https://mykulcoding.github.io/Michael-s-Password-Generator/
 
 
+## Link to password generator page:
+http://127.0.0.1:5500/starter/index.html
+
+
 ## Visual
 assets/05-javascript-challenge-demo.png
 
