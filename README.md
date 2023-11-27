@@ -10,17 +10,17 @@ A simple password generator tool built using JavaScript. It enables users to cre
 
 
 ## To Use
-Clone repo to your local machine.
-Open the index.html file in a web browser.
-Enter the desired length for the password and select the character types to include.
-Click the (Generate Password) button to generate a password based on your criteria.
+- Clone repo to your local machine.
+- Open the index.html file in a web browser.
+- Enter the desired length for the password and select the character types to include.
+- Click the (Generate Password) button to generate a password based on your criteria.
 
 
 ## How It Works
-The getPasswordOptions() function prompts the user to input the desired password length and select character types.
-User selections are validated, and an object containing password options is returned.
-The generatePassword() function uses the selected options to create a random password.
-Event handling in the JavaScript file connects the password generation function to the webpage interface.
+- The getPasswordOptions() function prompts the user to input the desired password length and select character types.
+- User selections are validated, and an object containing password options is returned.
+- The generatePassword() function uses the selected options to create a random password.
+- Event handling in the JavaScript file connects the password generation function to the webpage interface.
 
 
 ## Link to deployed website:
@@ -32,7 +32,8 @@ http://127.0.0.1:5500/starter/index.html
 
 
 ## Visual
-assets/05-javascript-challenge-demo.png
+
+![05-javascript-challenge-demo](https://github.com/Mykulcoding/Michael-s-Password-Generator/assets/147704782/1a28e811-7cc3-4853-8a21-5b09d2f39070)
 
 
 ## Collaboration
